@@ -3,7 +3,8 @@ def game_hash
     home: {
       team_name: "Brooklyn Nets",
       colors: ["Black", "White"],
-      players: [
+      players: [ 
+      {
         player_name: "Alan Anderson",
         number: 0,
         shoe: 16,
@@ -13,8 +14,8 @@ def game_hash
         steals: 3,
         blocks: 1,
         slam_dunks: 1 
-      ], 
-      [
+      }, 
+      {
         player_name: "Reggie Evans",
         number: 30,
         shoe: 14,
@@ -63,6 +64,7 @@ def game_hash
       team_name: "Charlotte Hornets",
       colors: ["Turquoise", "Purple"],
       players: [
+      {
         player_name: "Jeff Adrien",
         number: 4,
         shoe: 18,
