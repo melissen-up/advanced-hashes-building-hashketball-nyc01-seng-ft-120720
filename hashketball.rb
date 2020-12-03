@@ -12,8 +12,7 @@ def game_hash
         assists: 12,
         steals: 3,
         blocks: 1,
-        slam_dunks: 1 
-      }, 
+        slam_dunks: 1 }, 
       {
         player_name: "Reggie Evans",
         number: 30,
@@ -23,8 +22,7 @@ def game_hash
         assists: 12,
         steals: 12,
         blocks: 12,
-        slam_dunks: 7
-      },
+        slam_dunks: 7 },
       {
         player_name: "Brook Lopez",
         number: 11,
@@ -34,8 +32,7 @@ def game_hash
         assists: 10,
         steals: 3,
         blocks: 1,
-        slam_dunks: 15
-      },
+        slam_dunks: 15 },
       {
         player_name: "Mason Plumlee",
         number: 1,
